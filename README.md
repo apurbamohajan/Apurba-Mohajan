@@ -1,4 +1,4 @@
-# Apurba-Mohajan
+
 <h1 align="center">Hi 👋, I'm Apurba mohajan</h1>
 <h3 align="center">A cs student</h3>
 <img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/animated-cowboy-computer-coding-w60pcikl6ieg525n.gif">
